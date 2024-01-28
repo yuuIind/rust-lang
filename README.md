@@ -1,2 +1,2 @@
 # rust-lang
-Small exercises to get you used to reading and writing Rust code.
+Small exercises to get used to reading and writing Rust code.
