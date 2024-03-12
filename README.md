@@ -1,12 +1,13 @@
 # Rust Learning Journal
 
-This is my personal Rust learning repository, showcasing my progress, code, and solutions to exercises and problems.
+This repository contains the work I have done while learning Rust and serves as my personal Rust learning repository. It contains code examples, projects and solutions to programming problems.
 
 ## Structure
 
 - **[src](src):** Rust source code.
 - **[exercises](exercises):** Practice exercises.
 - **[problems](problems):** Solutions to coding problems.
+- **[book](the-rust-programming-language):** Codes written alongside .
 
 ## Progress
 
