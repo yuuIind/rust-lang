@@ -7,7 +7,7 @@ This repository contains the work I have done while learning Rust and serves as 
 - **[src](src):** Rust source code.
 - **[exercises](exercises):** Practice exercises.
 - **[problems](problems):** Solutions to coding problems.
-- **[book](the-rust-programming-language):** Codes written alongside .
+- **[book](book):** Codes written alongside .
 
 ## Progress
 
