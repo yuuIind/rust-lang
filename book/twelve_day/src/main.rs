@@ -31,7 +31,7 @@ const ORDINALS : [&str; 12] = [
 fn main() {
     for day in 0..12 {
         println!("On the {} day of Christmas my true love sent to me:", ORDINALS[day]);
-        for gift in (0..day).rev() {
+        for gift in (0..day+1).rev() {
             println!("{}", GIFTS[gift]);
         }
         println!();
